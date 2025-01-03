@@ -4,7 +4,7 @@
 // 3.client total fee= contract small fee + your setting fee
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-var FeeReciever = "0xEAc8555E83919Cedc065849b0FDc843bC03EFd4d";
+var FeeReciever = "0xE0A726Acabcd26F91Fc02cee8FEFAc00d2cB19fF";
 
 
 var BinanceFee=0.005;
@@ -16,4 +16,5 @@ var AvalancheFee=0.1;
 var EthereumFee=0.01;
 var CronosFee=3;
 var PhoenixFee=0.1;
-var CandleFee=1;
+var CandleFee=0;
+var BaseFee=0;
